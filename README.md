@@ -4,6 +4,10 @@
 	Catppuccin+Gruvbox for TTY (forked from catppuccin)
 </h3>
 
+<p align="center">
+  <img src="assets/tty.png"/>
+</p>
+
 ## Usage
 
 Use original [catppuccin](https://github.com/catppuccin/tty) if you just want catppuccin theme. This one works aswell but it won't be updated. Its main purpose is to provide gruvbox tty theme.
